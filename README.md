@@ -2,6 +2,7 @@
 Dead by Daylight - Increases your FOV 
 
 It Works for Survivor and Killer
+It Works for Steam, Epic Games, Microsoft Store
 
 # How to use
 **Turn Off Your Anti Virus Before Installing**
